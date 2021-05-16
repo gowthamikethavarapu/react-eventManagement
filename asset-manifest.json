@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-eventManagement/static/css/main.aac41f45.chunk.css",
+    "main.js": "/react-eventManagement/static/js/main.b4f94987.chunk.js",
+    "main.js.map": "/react-eventManagement/static/js/main.b4f94987.chunk.js.map",
+    "runtime-main.js": "/react-eventManagement/static/js/runtime-main.75ec9e59.js",
+    "runtime-main.js.map": "/react-eventManagement/static/js/runtime-main.75ec9e59.js.map",
+    "static/js/2.0806e8d0.chunk.js": "/react-eventManagement/static/js/2.0806e8d0.chunk.js",
+    "static/js/2.0806e8d0.chunk.js.map": "/react-eventManagement/static/js/2.0806e8d0.chunk.js.map",
+    "index.html": "/react-eventManagement/index.html",
+    "static/css/main.aac41f45.chunk.css.map": "/react-eventManagement/static/css/main.aac41f45.chunk.css.map",
+    "static/js/2.0806e8d0.chunk.js.LICENSE.txt": "/react-eventManagement/static/js/2.0806e8d0.chunk.js.LICENSE.txt",
+    "static/media/logo.aec5a08a.png": "/react-eventManagement/static/media/logo.aec5a08a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ec9e59.js",
+    "static/js/2.0806e8d0.chunk.js",
+    "static/css/main.aac41f45.chunk.css",
+    "static/js/main.b4f94987.chunk.js"
+  ]
+}
